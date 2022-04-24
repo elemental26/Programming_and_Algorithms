@@ -1,0 +1,4 @@
+hello
+bye
+good morning
+my name is Om
